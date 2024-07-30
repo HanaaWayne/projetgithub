@@ -4,7 +4,7 @@ const Accueil = () =>{
 
     return(
         <>
-        <p>Hola</p>
+        <p>Page d'accueil</p>
         </>
     )
 }
