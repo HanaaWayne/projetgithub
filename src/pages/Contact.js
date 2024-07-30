@@ -5,6 +5,8 @@ function contact() {
     <div>
       <h1>Contact</h1>
       <p>Send us a message!</p>
+      <p>You are welcome!</p>
+      <p>Send us a message!</p>
     </div>
   );
 }
